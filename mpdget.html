@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
 <meta name=robots content=noindex />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 <style>body{margin:0;padding:0}</style>
 <script>
 function getParameterByName(name) {
@@ -39,11 +40,11 @@ var playerInstance = jwplayer("player");
             ]
         }],
         width: "100%",
-        height: "100%",
-        aspectratio: "16:9",
-        autostart: false,
-        cast: {},
-        sharing: {}
+      title: "",
+      autostart: true,
+      height: "100vh",
+      cast: {},
+      sharing: {}
     });
     if (getLang == "") {
 			lang = 1;
