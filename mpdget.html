@@ -3,7 +3,18 @@
 <head>
 <meta name=robots content=noindex />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-<style>body{margin:0;padding:0}</style>
+<style type="text/css">
+
+body {
+   margin: 0;
+   padding: 0;
+}
+/* Oculta el botón de configuración en el reproductor JWPlayer */
+.jw-settings-sharing {
+  display: none !important;
+}
+
+</style>
 <script>
 function getParameterByName(name) {
   name = name.replace(/[\[]/, "\[").replace(/[\]]/, "\]");
