@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Video HLS en Vivo</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    <div id="videoContainer">
+        <video id="videoElement" controls autoplay></video>
+    </div>
+
+    <script>
+        const valores = window.location.search;
+        const urlParams = new URLSearchParams(valores);
+        const get = urlParams.get('get');
+
+        if (Hls.isSupported()) {
+            const videoElement = document.getElementById('videoElement');
+            const hls = new Hls();
+            
+            // Cargar el archivo m3u8
+            hls.loadSource(get);
+            hls.attachMedia(videoElement);
+
+            // Reproducir el video
+            hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                videoElement.play();
+            });
+        }
+    </script>
+</body>
+</html>
