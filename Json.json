@@ -1,22 +1,7 @@
-[  {
-    "dt": "1707163200",
-    "Partido": "Brentford - Manchester City",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707163200",
-    "Partido": "Rayo Vallecano - Sevilla",
+[  
+    {
+    "dt": "1707249600",
+    "Partido": "Mallorca - Real Sociedad",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -31,8 +16,8 @@
     }
   },
   {
-    "dt": "1707165000",
-    "Partido": "Godoy Cruz - Lanús",
+    "dt": "1707256800",
+    "Partido": "Sarmiento - Defensa y Justicia",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -47,56 +32,8 @@
     }
   },
   {
-    "dt": "1707166800",
-    "Partido": "San Lorenzo - Unión de Santa Fe",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707173100",
-    "Partido": "CA Tigre - Boca Juniors",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707179400",
-    "Partido": "Estudiantes de La Plata - Racing Club",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707181200",
-    "Partido": "Banfield - Instituto AC Cordoba",
+    "dt": "1707264000",
+    "Partido": "Club Atlético Tucumán - Argentinos Juniors",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
