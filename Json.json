@@ -1,7 +1,7 @@
 [
-{
-    "dt": "1707431400",
-    "Partido": "Rosario Central - Independiente Rivadavia",
+      {
+    "dt": "1707508800",
+    "Partido": "Cádiz - Real Betis",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -16,9 +16,57 @@
     }
   },
   {
-    "dt": "1707437700",
-    "Partido": "Huracán - CA Independiente",
-    "Competicion": "LaLiga",
+    "dt": "1707516000",
+    "Partido": "Estudiantes de La Plata - CA Tigre",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1707516000",
+    "Partido": "Unión de Santa Fe - Newell's Old Boys",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1707524100",
+    "Partido": "Vélez Sársfield - Gimnasia La Plata",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1707524100",
+    "Partido": "Racing Club - San Lorenzo",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
