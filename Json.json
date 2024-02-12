@@ -1,22 +1,6 @@
-[{
-    "dt": "1707656400",
-    "Partido": "Getafe - Celta de Vigo",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707660000",
-    "Partido": "West Ham - Arsenal",
+[  {
+    "dt": "1707768000",
+    "Partido": "Crystal Palace - Chelsea",
     "Competicion": "Premier League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -31,8 +15,8 @@
     }
   },
   {
-    "dt": "1707664500",
-    "Partido": "Mallorca - Rayo Vallecano",
+    "dt": "1707768000",
+    "Partido": "Almería - Athletic de Bilbao",
     "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -47,56 +31,8 @@
     }
   },
   {
-    "dt": "1707669000",
-    "Partido": "Aston Villa - Manchester United",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707672600",
-    "Partido": "Sevilla - Atlético de Madrid",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707680700",
-    "Partido": "AC Milan - Nápoles",
-    "Competicion": "Serie A",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707681600",
-    "Partido": "Deportivo Riestra - River Plate",
+    "dt": "1707775200",
+    "Partido": "Instituto AC Cordoba - CA Talleres de Córdoba",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -111,24 +47,8 @@
     }
   },
   {
-    "dt": "1707681600",
-    "Partido": "Barcelona - Granada",
-    "Competicion": "LaLiga",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1707688800",
-    "Partido": "Lanús - CA Platense",
+    "dt": "1707782400",
+    "Partido": "Newell's Old Boys - Racing Club",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
