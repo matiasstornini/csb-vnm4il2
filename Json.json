@@ -1,8 +1,7 @@
-[  
-  {
-    "dt": "1708027200",
-    "Partido": "Real Betis - Dinamo Zagreb",
-    "Competicion": "Eliminatorias Euro",
+[   {
+    "dt": "1708113600",
+    "Partido": "Inter de Milán - Salernitana",
+    "Competicion": "Serie A",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,57 +15,9 @@
     }
   },
   {
-    "dt": "1708027200",
-    "Partido": "AC Milan - Rennes",
-    "Competicion": "UEFA Europa League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1708027200",
-    "Partido": "Benfica - Toulouse",
-    "Competicion": "UEFA Europa League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1708027200",
-    "Partido": "Deportivo Riestra - Vélez Sársfield",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1708043400",
-    "Partido": "CA Talleres de Córdoba - Argentinos Juniors",
-    "Competicion": "Liga Argentina",
+    "dt": "1708113600",
+    "Partido": "Villarreal - Getafe",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
