@@ -1,7 +1,7 @@
-[{
-    "dt": "1709668800",
-    "Partido": "Bayern de Múnich - Lazio",
-    "Competicion": "UEFA Champions League",
+[ {
+    "dt": "1709676000",
+    "Partido": "Barracas Central - CA Independiente",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -15,9 +15,25 @@
     }
   },
   {
-    "dt": "1709668800",
-    "Partido": "Real Sociedad - Paris St. Germain",
-    "Competicion": "UEFA Champions League",
+    "dt": "1709679600",
+    "Partido": "Racing Club - Sarmiento",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1709685000",
+    "Partido": "Vélez Sársfield - Rosario Central",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
