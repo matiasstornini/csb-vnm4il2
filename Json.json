@@ -1,6 +1,7 @@
-[ {
-    "dt": "1709676000",
-    "Partido": "Barracas Central - CA Independiente",
+[
+     {
+    "dt": "1709755200",
+    "Partido": "Argentinos Juniors - Gimnasia La Plata",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -15,8 +16,40 @@
     }
   },
   {
-    "dt": "1709679600",
-    "Partido": "Racing Club - Sarmiento",
+    "dt": "1709755200",
+    "Partido": "Manchester City - FC Copenhague",
+    "Competicion": "UEFA Champions League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1709755200",
+    "Partido": "Real Madrid - RB Leipzig",
+    "Competicion": "UEFA Champions League",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1709763300",
+    "Partido": "Unión de Santa Fe - Boca Juniors",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -31,8 +64,40 @@
     }
   },
   {
-    "dt": "1709685000",
-    "Partido": "Vélez Sársfield - Rosario Central",
+    "dt": "1709763300",
+    "Partido": "Estudiantes de La Plata - CA Platense",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1709771400",
+    "Partido": "Club Atlético Tucumán - Banfield",
+    "Competicion": "Liga Argentina",
+    "Image": "",
+    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1709771400",
+    "Partido": "River Plate - Independiente Rivadavia",
     "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
