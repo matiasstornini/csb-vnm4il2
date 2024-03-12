@@ -1,8 +1,7 @@
-[
-    {
-    "dt": "1710187200",
-    "Partido": "Almería - Sevilla",
-    "Competicion": "LaLiga",
+[{
+    "dt": "1710273600",
+    "Partido": "Arsenal - Oporto",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -16,41 +15,9 @@
     }
   },
   {
-    "dt": "1710187200",
-    "Partido": "Chelsea - Newcastle",
-    "Competicion": "Premier League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1710194400",
-    "Partido": "CA Tigre - Lanús",
-    "Competicion": "Liga Argentina",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1710202500",
-    "Partido": "Banfield - Vélez Sársfield",
-    "Competicion": "Liga Argentina",
+    "dt": "1710273600",
+    "Partido": "Barcelona - Nápoles",
+    "Competicion": "UEFA Champions League",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
