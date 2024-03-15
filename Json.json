@@ -1,7 +1,7 @@
 [{
-    "dt": "1710438300",
-    "Partido": "Slavia Praga - AC Milan",
-    "Competicion": "UEFA Europa League",
+    "dt": "1710531000",
+    "Partido": "Deportivo Riestra - CA Independiente",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -15,9 +15,9 @@
     }
   },
   {
-    "dt": "1710438300",
-    "Partido": "Rangers - Benfica",
-    "Competicion": "UEFA Europa League",
+    "dt": "1710532800",
+    "Partido": "Real Sociedad - Cádiz",
+    "Competicion": "LaLiga",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
@@ -31,25 +31,9 @@
     }
   },
   {
-    "dt": "1710438300",
-    "Partido": "Villarreal - Olympique Marsella",
-    "Competicion": "UEFA Europa League",
-    "Image": "",
-    "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1710446400",
-    "Partido": "Liverpool - Sparta de Praga",
-    "Competicion": "UEFA Europa League",
+    "dt": "1710547200",
+    "Partido": "Newell's Old Boys - CA Platense",
+    "Competicion": "Liga Argentina",
     "Image": "",
     "Estadisticas": "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
     "Switch": 0,
